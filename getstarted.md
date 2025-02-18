@@ -71,10 +71,12 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
 
 
 <style>
-
+     
+# only <h3> headers between <div class=gs-section-01> tags
 .gs-section-01 h3 { 
      color: red }
-
+     
+# only <p> between <div class=gs-section-01> tags
 .gs-section-01 p {
      font-size: 30px;
 }
