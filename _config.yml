@@ -229,6 +229,7 @@ exclude:
   - screenshot.png
   - docs/
   - vendor
+  - vendor/
 
 plugins:
   - jekyll-paginate
